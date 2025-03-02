@@ -1,0 +1,11 @@
+selenium
+pandas
+pyarrow
+fastparquet
+beautifulsoup4
+openpyxl
+requests
+plotly
+nbformat
+scipy
+scikit-learn

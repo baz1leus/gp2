@@ -1,0 +1,7 @@
+data.nosync
+*.parquet
+*.pkl
+*.log
+.DS_Store
+__pycache__
+GP 2 - Scraping & API.ipynb
